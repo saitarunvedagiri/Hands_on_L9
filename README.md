@@ -50,7 +50,7 @@ Check the `outputs/` folder for CSV outputs. Each task folder includes several `
 - Running for multiple batches (>35) ensures visible CSV outputs for windowed results.
 - The Spark output format was retained (multiple `part-` CSV files and `_SUCCESS` files) for submission compliance.
 
-## Submission Structure
+## Project Structure
 Handson-L8-Spark-SQL_Streaming/
 ├── outputs/
 │   ├── task1_outputs/
