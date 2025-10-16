@@ -26,6 +26,8 @@ Handson-L8-Spark-SQL_Streaming/
 ```
 
 ### Tasks
+---
+
 **Task 1 – Basic Streaming Ingestion and Parsing**
 - Reads data from `localhost:9999`
 - Parses JSON messages into columns
