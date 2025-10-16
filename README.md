@@ -51,6 +51,7 @@ Check the `outputs/` folder for CSV outputs. Each task folder includes several `
 - The Spark output format was retained (multiple `part-` CSV files and `_SUCCESS` files) for submission compliance.
 
 ## Project Structure
+```
 Handson-L8-Spark-SQL_Streaming/
 ├── outputs/
 │   ├── task1_outputs/
@@ -63,3 +64,4 @@ Handson-L8-Spark-SQL_Streaming/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
