@@ -2,9 +2,7 @@
 
 **Cloud Computing for Data Analysis (ITCS 6190/8190, Fall 2025)**  
 Instructor: *Marco Vieira*
-
 Name: *Sai Tarun Vedagiri*
-
 Id: *801421332*
 
 ## Overview
