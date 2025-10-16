@@ -1,1 +1,3 @@
 pyspark
+Python 3.x
+faker
