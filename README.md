@@ -34,6 +34,8 @@ Handson-L8-Spark-SQL_Streaming/
 **Task 2 – Real-Time Aggregations (Driver-Level)**
 - Calculates `SUM(fare_amount)` and `AVG(distance_km)` grouped by `driver_id`
 - Streams output to CSV files under `outputs/task2_outputs/`
+---
+
 
 **Task 3 – Windowed Time-Based Analytics**
 - Converts timestamp to proper `TimestampType`
