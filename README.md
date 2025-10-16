@@ -2,10 +2,28 @@
 
 **Cloud Computing for Data Analysis (ITCS 6190/8190, Fall 2025)**  
 Instructor: *Marco Vieira*
+Name: *Sai Tarun Vedagiri*
+Id: *801421332*
 
 ## Overview
 This project implements a real-time ride-sharing analytics pipeline using Apache Spark Structured Streaming.  
 It includes three tasks and a data generator for continuous JSON ride data.
+
+## Project Structure
+```
+Handson-L8-Spark-SQL_Streaming/
+├── outputs/
+│   ├── task1_outputs/
+│   ├── task2_outputs/
+│   └── task3_outputs/
+├── data_generator.py
+├── task1.py
+├── task2.py
+├── task3.py
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
 
 ### Tasks
 **Task 1 – Basic Streaming Ingestion and Parsing**
@@ -50,18 +68,4 @@ Check the `outputs/` folder for CSV outputs. Each task folder includes several `
 - Running for multiple batches (>35) ensures visible CSV outputs for windowed results.
 - The Spark output format was retained (multiple `part-` CSV files and `_SUCCESS` files) for submission compliance.
 
-## Project Structure
-```
-Handson-L8-Spark-SQL_Streaming/
-├── outputs/
-│   ├── task1_outputs/
-│   ├── task2_outputs/
-│   └── task3_outputs/
-├── data_generator.py
-├── task1.py
-├── task2.py
-├── task3.py
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
+
