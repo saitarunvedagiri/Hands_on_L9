@@ -1,0 +1,2 @@
+trip_id,driver_id,distance_km,fare_amount,timestamp
+t3,driver_1,7.0,18.0,2025-10-16T12:01:05Z
