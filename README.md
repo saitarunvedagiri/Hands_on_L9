@@ -13,7 +13,7 @@ It includes three tasks and a data generator for continuous JSON ride data.
 
 ---
 
-## Project Structure
+## Project Structure 
 ```
 Handson-L8-Spark-SQL_Streaming/
 ├── outputs/
